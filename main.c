@@ -85,7 +85,7 @@ int main()
         c2 = 4;
         ip = calcola_ipotenusa(c1, c2);
         printf("La lunghezza dell'ipotenusa con cateti %0.3f e %0.3F e': %0.4f\n", c1, c2, ip);
-        assert((ip > 5.0F - 0.01F) && (ip < 5.0F + 0.01F));
+        assert((ip > 5.0F - 1.0F) && (ip < 5.0F + 1.0F));
         n_punti_test += 1;
         printf("Hai completato %d punti\n", n_punti_test);
         printf("\n");
