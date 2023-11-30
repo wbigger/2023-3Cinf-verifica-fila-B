@@ -11,6 +11,6 @@ float calcola_ipotenusa(float c1, float c2)
 {
 }
 
-void plot_area_triangolo(float h_min, float h_max)
+void plot_area_triangolo(float b, float h_min, float h_max)
 {
 }
