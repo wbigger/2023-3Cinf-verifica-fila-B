@@ -1,0 +1,19 @@
+build
+
+# executables
+a.out
+main
+triangolo 
+
+# objects
+*.o
+
+# soluzione
+main.soluzione.c
+triangolo.soluzione.c
+
+# mac specific
+*.dSYM/
+.DS_Store
+
+# Do not add .vscode folder to .gitignore! We need it for compiling

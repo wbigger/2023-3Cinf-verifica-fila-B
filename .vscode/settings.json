@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.gs": "javascript",
+        "math.h": "c",
+        "triangolo.h": "c",
+        "stdbool.h": "c"
+    }
+}
