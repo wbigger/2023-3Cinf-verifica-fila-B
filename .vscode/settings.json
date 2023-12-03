@@ -4,5 +4,6 @@
         "math.h": "c",
         "triangolo.h": "c",
         "stdbool.h": "c"
-    }
+    },
+    "extensions.ignoreRecommendations": true
 }
